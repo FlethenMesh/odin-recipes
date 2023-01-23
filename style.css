@@ -1,0 +1,19 @@
+body {
+  background-color: darksalmon;
+}
+img {
+  width: 400px;
+  height: auto;
+}
+.chef {
+  text-align: right;
+}
+.list {
+  border: 2px solid royalblue
+}
+.back {
+  text-align: center;
+}
+.main-header {
+  
+}
